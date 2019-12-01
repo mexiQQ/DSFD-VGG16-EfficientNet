@@ -8,7 +8,7 @@ The AP using VGG16 in AFW,PASCAL,FDDB as following:
 
 | 	AFW     |   PASCAL	|   FDDB   |
 | --------- |-----------| ---------|
-|	  99.89   |   99.11   |  0.983   |
+|	  99.89   |   99.11   |   98.3   |
 
 The performance on small face detection using EfficientNet-B0 and EfficientNet-B1 is not good enough, we are still working on it.  
  
@@ -54,6 +54,8 @@ you can test yourself image
 ```
 python demo.py
 ```
+### Thank you
+Thanks for the cupons from AWS
 
 ### References
 * [Dual Shot Face Detector](https://arxiv.org/abs/1810.10220?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)

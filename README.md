@@ -61,13 +61,13 @@ python demo.py
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/VGG16/test6.jpg" height="300px" alt="demo" >
 </div>
 
-#### Efficient-B0
+#### EfficientNet-B0
 <div align="center">
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/EfficientNet-B0/test1.jpg" height="300px" alt="demo" >
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/EfficientNet-B0/test6.jpg" height="300px" alt="demo" >
 </div>
 
-#### Efficient-B1
+#### EfficientNet-B1
 <div align="center">
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/EfficientNet-B1/test1.jpg" height="300px" alt="demo" >
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/EfficientNet-B1/test6.jpg" height="300px" alt="demo" >

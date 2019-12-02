@@ -55,19 +55,19 @@ you can test yourself image
 python demo.py
 ```
 ### Result
-## VGG16
+#### VGG16
 <div align="center">
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/VGG16/test1.jpg" height="300px" alt="demo" >
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/VGG16/test6.jpg" height="300px" alt="demo" >
 </div>
 
-## Efficient-B0
+#### Efficient-B0
 <div align="center">
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/EfficientNet-B0/test1.jpg" height="300px" alt="demo" >
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/EfficientNet-B0/test6.jpg" height="300px" alt="demo" >
 </div>
 
-## Efficient-B1
+#### Efficient-B1
 <div align="center">
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/EfficientNet-B1/test1.jpg" height="300px" alt="demo" >
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/EfficientNet-B1/test6.jpg" height="300px" alt="demo" >

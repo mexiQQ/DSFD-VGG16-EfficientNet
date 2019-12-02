@@ -2,7 +2,7 @@
 [A PyTorch Implementation of Dual Shot Face Detector](https://arxiv.org/abs/1810.10220?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)
 
 ### Description
-We use basenet [VGG16](https://pan.baidu.com/s/1Q-YqoxJyqvln6KTcIck1tQ), [EfficientNet-B0](http://storage.googleapis.com/public-models/efficientnet/efficientnet-b0-355c32eb.pth) and [EfficientNet-B1](http://storage.googleapis.com/public-models/efficientnet/efficientnet-b1-f1951068.pth) to train DSFD, the model can be downloaded in [DSFD](https://pan.baidu.com/s/17cpDHEwYVxWmOIPqUy5zCQ).
+We use basenet [VGG16](https://pan.baidu.com/s/1Q-YqoxJyqvln6KTcIck1tQ), [EfficientNet-B0](http://storage.googleapis.com/public-models/efficientnet/efficientnet-b0-355c32eb.pth) and [EfficientNet-B1](http://storage.googleapis.com/public-models/efficientnet/efficientnet-b1-f1951068.pth) to train DSFD, the model can be downloaded in [DSFD with VGG](https://pan.baidu.com/s/17cpDHEwYVxWmOIPqUy5zCQ).
  
 The AP using VGG16 in AFW,PASCAL,FDDB as following:
 

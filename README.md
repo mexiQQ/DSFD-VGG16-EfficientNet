@@ -1,3 +1,9 @@
+## Update
+Adopt new layers of EfficientNet-B1 to extract feature maps. The accuracy of small face detection increses obviously. 
+
+## Update
+Add Report and Slides
+
 ## DSFD: Dual Shot Face Detector ##
 [A PyTorch Implementation of Dual Shot Face Detector](https://arxiv.org/abs/1810.10220?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)
 

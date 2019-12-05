@@ -79,8 +79,16 @@ python demo.py
 <img src="https://github.com/mexiQQ/DSFD-VGG16-EfficientNet/blob/master/EfficientNet-B1/test6.jpg" height="300px" alt="demo" >
 </div>
 
-### Thank you
-Thanks for the cupons from AWS
+### About:
+
+This page (code, report and presentation) is the group C submission for Final project for CS256: Selected Topic in Artificial Intelligence, Section 2. Leb by Instructor: Mashhour Solh, Ph.D.
+The group members are:. "Jianwei Li, Peilu Liu, Ruchira Gothankar, Akash Budholia, Akshar Panchal".
+
+The code maybe used for educational and commercial use under no warranties. For questions on this project and code please reach out to: "ljw040426@gmail.com"
+
+### Credits:
+
+This project was conducted with free credits provided by AWS educate team.
 
 ### References
 * [Dual Shot Face Detector](https://arxiv.org/abs/1810.10220?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)
